@@ -1,0 +1,17 @@
+h2{
+    color: blueviolet;
+}
+
+fieldset{
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+
+div>h2{
+    color:green;
+}
+
+div>h3{
+    color:darkorchid;
+}
+
